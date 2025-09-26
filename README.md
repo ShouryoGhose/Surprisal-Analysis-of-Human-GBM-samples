@@ -36,12 +36,14 @@ pip install numpy matplotlib pandas openpyxl
 ```
 
 ## Input Files
+To download the input files : .
 
+Below is an example of how to do the surprisal analysis of a data set called P1_Peri.
 **`P1_Peri.csv`** – Input data matrix  
   - **Columns:** Gene names  
   - **Rows:** Cell IDs.
 
-**`ordered_barcode_coordinates.csv`** – XY coordinates of the cells.
+**`P1_Peri_coordinates.csv`** – XY coordinates of the cells.
 
 
 
